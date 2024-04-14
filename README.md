@@ -11,7 +11,7 @@
 
 ## Overview
 
-### Screenshot
+### Screenshots
 
 #### Desktop
 ![desktop](./design/desktop-design.jpg)
@@ -21,8 +21,8 @@
 
 ### Links
 
-- Solution URL: [Solution Link]()
-- Live Site URL: [Site Link]()
+- Solution URL: [Solution Link](https://github.com/Ivandefender/Time-Tracking-Dashboard)
+- Live Site URL: [Site Link](https://ivandefender.github.io/Time-Tracking-Dashboard/)
 
 ## My process
 
